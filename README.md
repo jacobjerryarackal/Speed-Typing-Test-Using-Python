@@ -19,7 +19,6 @@ From pygame.locals import *
 Import sys
 Import time
 Import random
-![image](https://github.com/jacobjerryarackal/Speed-Typing-Test-Using-Python/assets/61875733/ec46f7b4-211a-451f-a657-834554ff08d0)
 
 
 
